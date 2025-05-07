@@ -1,0 +1,21 @@
+# IntelliJ project files
+.idea/
+*.iml
+
+# Output directories
+out/
+target/
+
+# OS-specific
+.DS_Store
+
+# Compiled files
+*.class
+
+# VS Code (if you ever use it)
+.vscode/
+
+# Logs or temp
+*.log
+*.tmp
+
